@@ -1,0 +1,794 @@
+1595674429635	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofileyN3tXr"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595674437360	Marionette	INFO	Listening on port 4840
+1595674437502	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1595675677949	Marionette	INFO	Stopped listening on port 4840
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Listening on port 5481
+1595674663256	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1595675673538	Marionette	INFO	Stopped listening on port 5481
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+nette	WARN	TLS certificate errors will be ignored for this session
+1595674792421	Marionette	INFO	Stopped listening on port 5837
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595674846828	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofileH6gVye"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595674850343	Marionette	INFO	Listening on port 6090
+1595674850441	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:document.getElementsByClassName("select-container-1DrEI")[0].click();document.getElementsByClassName("list-item-2xmNY")[0].click();document.getElementsByClassName("select-container-1DrEI")[1].click();document.getElementsByClassName("list-item-2xmNY")[1].click();document.getElementsByClassName("select-container-1DrEI")[2].click();document.getElementsByClassName("list-item-2xmNY")[40].click();document.getElementsByClassName("login-button-86o6Z")[0].click();'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 659"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:659:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:509:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:1998:69
+addAllSources@resource://devtools/server/actors/thread.js:1382:14
+onSources@resource://devtools/server/actors/thread.js:1388:10
+onPacket@resource://devtools/server/devtools-server-connection.js:380:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 659, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 659: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:document.getElementsByClassName("select-container-1DrEI")[0].click();document.getElementsByClassName("list-item-2xmNY")[0].click();document.getElementsByClassName("select-container-1DrEI")[1].click();document.getElementsByClassName("list-item-2xmNY")[1].click();document.getElementsByClassName("select-container-1DrEI")[2].click();document.getElementsByClassName("list-item-2xmNY")[40].click();document.getElementsByClassName("login-button-86o6Z")[0].click();'
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/domnode246, type setNodeValue failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+showTextEditor/done/</<@resource://devtools/client/inspector/markup/views/text-editor.js:101:25
+do@resource://devtools/client/shared/undo.js:70:16
+endBatch@resource://devtools/client/shared/undo.js:81:11
+do@resource://devtools/client/shared/undo.js:94:10
+showTextEditor/done/<@resource://devtools/client/inspector/markup/views/text-editor.js:99:31
+process@resource://gre/modules/Promise-backend.js:961:38
+walkerLoop@resource://gre/modules/Promise-backend.js:845:29
+scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:778:14
+
+1595675296241595675299195	Marionette	INFO	Stopped listening on port 7354
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595675399194	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofileWKFT5k"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595675402380	Marionette	INFO	Listening on port 7756
+1595675402802	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595675414744	Marionette	INFO	Stopped listening on port 7756
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595675434848	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofileA2BFBW"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595675438109	Marionette	INFO	Listening on port 7917
+1595675438464	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595675469911	Marionette	INFO	Stopped listening on port 7917
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595675519939	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofileN45NS9"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595675523192	Marionette	INFO	Listening on port 8194
+1595675523552	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595675542518	Marionette	INFO	Stopped listening on port 8194
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595675592738	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofileBZjU4V"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595675595944	Marionette	INFO	Listening on port 8439
+1595675596346	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+1595675628934	Marionette	INFO	Stopped listening on port 8439
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595675672228	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofile0uM1C2"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595675675919	Marionette	INFO	Listening on port 8702
+1595675676343	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595675697454	Marionette	INFO	Stopped listening on port 8702
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595675926522	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofileJGIUMu"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595675931823	Marionette	INFO	Listening on port 9387
+1595675931829	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595676022454	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofilepqZG0M"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595676025620	Marionette	INFO	Listening on port 9684
+1595676026069	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:document.getElementsByClassName("select-container-1DrEI")[0].click();document.getElementsByClassName("list-item-2xmNY")[0].click();document.getElementsByClassName("select-container-1DrEI")[1].click();document.getElementsByClassName("list-item-2xmNY")[1].click();document.getElementsByClassName("select-container-1DrEI")[2].click();document.getElementsByClassName("list-item-2xmNY")[40].click();document.getElementsByClassName("login-button-86o6Z")[0].click();'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 659"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:659:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:509:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:1998:69
+addAllSources@resource://devtools/server/actors/thread.js:1382:14
+onSources@resource://devtools/server/actors/thread.js:1388:10
+onPacket@resource://devtools/server/devtools-server-connection.js:380:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 659, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 659: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:document.getElementsByClassName("select-container-1DrEI")[0].click();document.getElementsByClassName("list-item-2xmNY")[0].click();document.getElementsByClassName("select-container-1DrEI")[1].click();document.getElementsByClassName("list-item-2xmNY")[1].click();document.getElementsByClassName("select-container-1DrEI")[2].click();document.getElementsByClassName("list-item-2xmNY")[40].click();document.getElementsByClassName("login-button-86o6Z")[0].click();'
+1595676091016	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofile7kel7b"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595676093955	Marionette	INFO	Listening on port 9923
+1595676094135	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:document.getElementsByClassName("select-container-1DrEI")[0].click();document.getElementsByClassName("list-item-2xmNY")[0].click();document.getElementsByClassName("select-container-1DrEI")[1].click();document.getElementsByClassName("list-item-2xmNY")[1].click();document.getElementsByClassName("select-container-1DrEI")[2].click();document.getElementsByClassName("list-item-2xmNY")[40].click();document.getElementsByClassName("login-button-86o6Z")[0].click();'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 659"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:659:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:509:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:1998:69
+addAllSources@resource://devtools/server/actors/thread.js:1382:14
+onSources@resource://devtools/server/actors/thread.js:1388:10
+onPacket@resource://devtools/server/devtools-server-connection.js:380:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 659, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 659: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:document.getElementsByClassName("select-container-1DrEI")[0].click();document.getElementsByClassName("list-item-2xmNY")[0].click();document.getElementsByClassName("select-container-1DrEI")[1].click();document.getElementsByClassName("list-item-2xmNY")[1].click();document.getElementsByClassName("select-container-1DrEI")[2].click();document.getElementsByClassName("list-item-2xmNY")[40].click();document.getElementsByClassName("login-button-86o6Z")[0].click();'
+1595676235139	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofileAhEhfT"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595676238273	Marionette	INFO	Listening on port 10343
+1595676238757	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595676281579	Marionette	INFO	Stopped listening on port 10343
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595676437287	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofiled2Tll0"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595676442008	Marionette	INFO	Listening on port 11041
+1595676442502	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595676458930	Marionette	INFO	Stopped listening on port 11041
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595676560747	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofile6TM7k2"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595676564122	Marionette	INFO	Listening on port 11414
+1595676564358	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595676579901	Marionette	INFO	Stopped listening on port 11414
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595676644729	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofileWylY1F"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595676648418	Marionette	INFO	Listening on port 11697
+1595676648840	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595676690156	Marionette	INFO	Stopped listening on port 11697
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595676800759	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofileUEy8u8"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595676804154	Marionette	INFO	Listening on port 12186
+1595676804367	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595676827859	Marionette	INFO	Stopped listening on port 12186
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595676856370	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofilerahZwt"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595676859582	Marionette	INFO	Listening on port 12402
+1595676859985	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595676878215	Marionette	INFO	Stopped listening on port 12402
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595676958534	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofilehsutOF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595676961810	Marionette	INFO	Listening on port 12737
+1595676962146	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595676986672	Marionette	INFO	Stopped listening on port 12737
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595677016808	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofile6v3Gnu"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595677020100	Marionette	INFO	Listening on port 12953
+1595677020417	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595677036149	Marionette	INFO	Stopped listening on port 12953
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595700389461	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofileElUdDv"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595700394123	Marionette	INFO	Listening on port 49786
+1595700394204	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595700453171	Marionette	INFO	Stopped listening on port 49786
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0011,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595700462669	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofileqNHBI3"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595700465762	Marionette	INFO	Listening on port 49908
+1595700465793	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595700490317	Marionette	INFO	Stopped listening on port 49908
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595700495244	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofile8xNfh5"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB30023,name=PWebRenderBridge::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9F0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xD,name=PAPZ::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x36001A,name=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB30023,name=PWebRenderBridge::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x36001A,name=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1595700538100	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofilefbGrvy"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595700541557	Marionette	INFO	Listening on port 50041
+1595700541901	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595700565102	Marionette	INFO	Stopped listening on port 50041
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595700578528	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofileC80Ta1"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595700582170	Marionette	INFO	Listening on port 50146
+1595700582639	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595700601540	Marionette	INFO	Stopped listening on port 50146
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595700735877	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofileQy8p75"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595700739574	Marionette	INFO	Listening on port 50265
+1595700739991	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595700753158	Marionette	INFO	Stopped listening on port 50265
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595700983644	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofilefiHwqH"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595700987040	Marionette	INFO	Listening on port 50366
+1595700987259	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595701010947	Marionette	INFO	Stopped listening on port 50366
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595701052991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofileFzowpg"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595701056421	Marionette	INFO	Listening on port 50447
+1595701056602	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595701081817	Marionette	INFO	Stopped listening on port 50447
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595701208176	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofileyhYqp1"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595701211714	Marionette	INFO	Listening on port 50540
+1595701211792	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595701220638	Marionette	INFO	Stopped listening on port 50540
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595701232653	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofile9Os7k8"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595701235925	Marionette	INFO	Listening on port 50618
+1595701236272	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595701728702	Marionette	INFO	Stopped listening on port 50618
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595701263224	Marionette	INFO	Listening on port 50689
+1595701263475	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595701288264	Marionette	INFO	Stopped listening on port 50689
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595701376855	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofileHDIa5Y"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595701380189	Marionette	INFO	Listening on port 50786
+1595701380464	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595701396749	Marionette	INFO	Stopped listening on port 50786
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595701492185	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofile4yFINn"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595701495698	Marionette	INFO	Listening on port 50865
+1595701495798	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595701530475	Marionette	INFO	Stopped listening on port 50865
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595701566595	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofileI12V0z"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595701569944	Marionette	INFO	Listening on port 50948
+1595701570204	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595701596930	Marionette	INFO	Stopped listening on port 50948
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595701594273	Marionette	INFO	Listening on port 51014
+1595701594318	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595701605101	Marionette	INFO	Stopped listening on port 51014
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595701638927	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofileXunbaW"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595701642313	Marionette	INFO	Listening on port 51085
+1595701642538	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595701665819	Marionette	INFO	Stopped listening on port 51085
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595701737565	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofileTGzMJF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595701740949	Marionette	INFO	Listening on port 51157
+1595701741179	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595701765009	Marionette	INFO	Stopped listening on port 51157
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595701825089	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofile4UHJ2t"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595701828172	Marionette	INFO	Listening on port 51237
+1595701828202	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595701844111	Marionette	INFO	Stopped listening on port 51237
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595702114360	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofileIPQa7Q"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595702117713	Marionette	INFO	Listening on port 51366
+1595702117972	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595702121074	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofilexzw39X"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595702131250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofileWofljg"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595702135526	Marionette	INFO	Listening on port 51461
+1595702136011	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595702139110	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofilezN76zu"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595702142812	Marionette	INFO	Listening on port 51523
+1595702143228	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595702147153	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofile6a1sFz"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595702152423	Marionette	INFO	Listening on port 51567
+1595702152867	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595702155967	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofileYjKTFB"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595702159112	Marionette	INFO	Listening on port 51607
+1595702159579	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595702182899	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofileIx7Ws0"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595702187407	Marionette	INFO	Listening on port 51659
+1595702187615	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595702213079	Marionette	INFO	Stopped listening on port 51659
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595702245091	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofileeUN4Yh"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595702248521	Marionette	INFO	Listening on port 51742
+1595702248711	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595702272973	Marionette	INFO	Stopped listening on port 51742
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595702352172	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofileFu2T92"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595702355355	Marionette	INFO	Listening on port 51829
+1595702355789	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595702389189	Marionette	INFO	Stopped listening on port 51829
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595702539295	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofiletlL1Jb"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595702542403	Marionette	INFO	Listening on port 51921
+1595702542417	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595702554954	Marionette	INFO	Stopped listening on port 51921
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595702584691	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofileTihAKT"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595702587866	Marionette	INFO	Listening on port 51998
+1595702588301	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595702611617	Marionette	INFO	Stopped listening on port 51998
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595702711094	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofileX4fDzz"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595702714662	Marionette	INFO	Listening on port 52098
+1595702714744	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595702733131	Marionette	INFO	Stopped listening on port 52098
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595702862166	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofileXcT1C9"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595702865368	Marionette	INFO	Listening on port 52183
+1595702865814	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595702879420	Marionette	INFO	Stopped listening on port 52183
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595702942744	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofile4ZEVoZ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595702945852	Marionette	INFO	Listening on port 52256
+1595702945859	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595703018485	Marionette	INFO	Stopped listening on port 52256
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595703023871	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofilebgAfr9"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595703026691	Marionette	INFO	Listening on port 52380
+1595703026985	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595703045589	Marionette	INFO	Stopped listening on port 52380
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595703092723	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofiletVN6Z5"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595703096065	Marionette	INFO	Listening on port 52452
+1595703096334	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595703110255	Marionette	INFO	Stopped listening on port 52452
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595703125780	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofileS2Lq2s"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595703128954	Marionette	INFO	Listening on port 52527
+1595703129394	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595703155331	Marionette	INFO	Stopped listening on port 52527
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595703162376	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofilex1bC8X"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595703165510	Marionette	INFO	Listening on port 52606
+1595703165986	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595703189616	Marionette	INFO	Stopped listening on port 52606
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595703182324	Marionette	INFO	Listening on port 52686
+1595703182408	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595703204704	Marionette	INFO	Stopped listening on port 52686
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ificate errors will be ignored for this session
+1595703229965	Marionette	INFO	Stopped listening on port 52749
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595703214392	Marionette	INFO	Listening on port 52819
+1595703214479	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595703234580	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofileOm9R0i"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595703237742	Marionette	1595703255304	Marionette	INFO	Stopped listening on port 52819
+
+###!!! [Child][RunMessage] Error: Channel closing: t1595703260831	Marionette	INFO	Stopped listening on port 52888
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595703256200	Marionette	INFO	Listening on port 52969
+1595703256317	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595703288096	Marionette	INFO	Stopped listening on port 52969
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595703268707	Marionette	INFO	Listening on port 53037
+1595703268828	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:document.getElementsByClassName("select-container-1DrEI")[0].click();document.getElementsByClassName("list-item-2xmNY")[0].click();document.getElementsByClassName("select-container-1DrEI")[1].click();document.getElementsByClassName("1595703360690	Marionette	INFO	Stopped listening on port 53110
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+].click();document.getElementsByClassName("login-button-86o6Z")[0].click();'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 659"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:65JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+1595703362634	Marionette	INFO	Stopped listening on port 53186
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+s/thread.js:1382:14
+onSources@resource://devtools/server/actors/thread.js:1388:10
+onPacket@resource://devtools/server/devtools-server-connection.js:380:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 659, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 659: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:document.getElementsByClassName("select-container-1DrEI")[0].click();document.getElementsByClassName("list-item-2xmNY")[0].click();document.getElementsByClassName("select-container-1DrEI")[1].click();document.getElementsByClassName("list-item-2xmNY")[1].click();document.getElementsByClassName("select-container-1DrEI")[2].click();document.getElementsByClassName("list-item-2xmNY")[40].click();document.getElementsByClassName("login-button-86o6Z")[0].click();'
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+1595703467844	Marionette	INFO	Stopped listening on port 53037
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Stopped listening on port 53269
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595703519180	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofilegG967e"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595703522206	Marionette	INFO	Listening on port 53373
+1595703522295	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1595703610507	Marionette	INFO	Stopped listening on port 53373
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595703614054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofile9Iixsn"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595703617791	Marionette	INFO	Listening on port 53442
+1595703618166	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595703709822	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofilerSp6ac"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595703712924	Marionette	INFO	Listening on port 53512
+1595703712935	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595703761412	Marionette	INFO	Stopped listening on port 53512
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595703765343	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofileF1w58d"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595703768810	Marionette	INFO	Listening on port 53575
+1595703768990	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39012F,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1595703781795	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofilem3jKnm"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595703784884	Marionette	INFO	Listening on port 53641
+1595703784956	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596564726166	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofileN0oCkV"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596564733406	Marionette	INFO	Listening on port 37476
+1596564733533	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596564780881	Marionette	INFO	Stopped listening on port 37476
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596564786144	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofiletoJHE8"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596564789399	Marionette	INFO	Listening on port 37686
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+1596564790686	Marionette	INFO	Stopped listening on port 37686
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596564801197	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramoi\\AppData\\Local\\Temp\\rust_mozprofilefv5EmV"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596564804262	Marionette	INFO	Listening on port 37761
+1596564804307	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596564805733	Marionette	INFO	Stopped listening on port 37761
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
