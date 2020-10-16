@@ -4,6 +4,7 @@ TikTok Account Generator with Python Selenium
 # What is Needed?
 - Selenium
 - Mozilla Firefox
+- imaplib
 
 # How does it work?
 
