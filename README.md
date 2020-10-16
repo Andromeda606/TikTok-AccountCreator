@@ -5,6 +5,7 @@ TikTok Account Generator with Python Selenium
 - Selenium
 - Mozilla Firefox
 - imaplib
+- <a href="https://github.com/mozilla/geckodriver/releases">Gecko Driver</a>
 
 # How does it work?
 Just edit the setting.json file according to you
