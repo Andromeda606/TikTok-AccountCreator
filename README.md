@@ -1,6 +1,10 @@
 # TikTok-AccountCreator
 TikTok Account Generator with Python Selenium
 
+# What is Needed?
+- Selenium
+- Mozilla Firefox
+
 # How does it work?
 
 Just edit the setting.json file according to you
