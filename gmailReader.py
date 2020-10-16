@@ -2,10 +2,8 @@ import imaplib, email
 import json
 import re
 
-veri = open("settings.json", "r+", encoding="utf8")
-lines = json.load(veri)
-with open("settings.json", "w", encoding="utf8") as json_dosya:
-    json.dump(lines, json_dosya, sort_keys=True, indent=2)
+data = open("settings.json", "r+", encoding="utf8")
+lines = json.load(data)
 email = lines["email"] + "@" + lines["eMailEnd"]
 password = lines["gmailPass"]
 regex = r"20px;color: rgb\(22,24,35\);font-weight: bold;\">(.*?)<\/p"
