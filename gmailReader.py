@@ -38,5 +38,5 @@ def deletemail():
     for num in data[0].split():
         imap.store(num, '+FLAGS', '\\Deleted')
     imap.expunge()
-    print("Bütün Mailler Silindi!")
+    print("Deleted All Mails!")
 print(getmail())
