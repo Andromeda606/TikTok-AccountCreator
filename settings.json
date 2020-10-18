@@ -1,7 +1,8 @@
 {
   "eMailEnd": "gmail.com",
-  "email": "",
+  "email": "email",
   "geckoPath": "C:\\Users\\ramoi\\Desktop\\geckodriver.exe",
-  "gmailPass": "",
-  "password": "AndromedaBot123"
+  "gmailPass": "pass",
+  "chromePath": "C:\\Users\\ramoi\\Desktop\\chromedriver.exe",
+  "password": "123TikTokTikTok"
 }
