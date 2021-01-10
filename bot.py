@@ -123,6 +123,7 @@ browser.find_element_by_xpath("/html/body/div[1]/div/div[1]/form/div[2]/div[2]/d
 browser.find_element_by_xpath("/html/body/div[1]/div/div[1]/form/div[2]/div[2]/ul/li[5]").click()
 browser.find_element_by_xpath("/html/body/div[1]/div").click()
 browser.find_element_by_xpath("/html/body/div[1]/div/div[1]/form/div[2]/div[3]/div").click()
-browser.find_element_by_xpath("/html/body/div[1]/div/div[1]/form/div[2]/div[3]/ul/li[4]").click()
+browser.find_element_by_xpath("/html/body/div[1]/div/div[1]/form/div[2]/div[3]/ul/li[29]").click() #age
 browser.find_element_by_xpath("/html/body/div[1]/div").click()
+browser.find_element_by_xpath("/html/body/div[1]/div/div[1]/form/div[4]/div[5]/button").click() #send code button
 getGmail()
